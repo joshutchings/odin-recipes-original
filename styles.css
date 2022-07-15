@@ -1,1 +1,5 @@
 /* index stylesheet */
+.link:hover {
+    background-color: black;
+    color: white;
+}
