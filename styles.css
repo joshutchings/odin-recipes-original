@@ -1,5 +1,10 @@
 /* index stylesheet */
+.link {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    text-decoration: none;
+    color: #999999
+}
+
 .link:hover {
-    background-color: black;
-    color: white;
+    color: #000000;
 }
